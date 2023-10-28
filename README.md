@@ -26,4 +26,4 @@
     <img alig="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-## Sou formado em Gestào da Tecnologia da Informaçào, e tenho curso de Full Stack Web Development, e em breve começarei na Engenharia de Sofware em 2024! E cada dia aprendendo mais🚀
+## Sou formado em Gestão da Tecnologia da Informação, e tenho curso de Full Stack Web Development, e em breve começarei na Engenharia de Sofware em 2024! E cada dia aprendendo mais, tenho essa paixão da Tecnologia!🚀
