@@ -26,4 +26,22 @@
     <img alig="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
+## **Linguagens e Ferramentas:**  
+
+<div style="display: inline_block"><br>
+  <img src="https://github.com/JRenanMO/JRenanMO/blob/main/Profile--GitHubAuxiliaryFiles/javascript-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/JRenanMO/JRenanMO/blob/main/Profile--GitHubAuxiliaryFiles/typescript-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/JRenanMO/JRenanMO/blob/main/Profile--GitHubAuxiliaryFiles/react-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/JRenanMO/JRenanMO/blob/main/Profile--GitHubAuxiliaryFiles/nodejs-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/JRenanMO/JRenanMO/blob/main/Profile--GitHubAuxiliaryFiles/express-original.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/JRenanMO/JRenanMO/blob/main/Profile--GitHubAuxiliaryFiles/git-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/JRenanMO/JRenanMO/blob/main/Profile--GitHubAuxiliaryFiles/mysql-plain.svg" width="50" height="40" align="center"/>
+  <img src="https://github.com/JRenanMO/JRenanMO/blob/main/Profile--GitHubAuxiliaryFiles/mongodb-original.svg" width="50" height="40" align="center"/>
+
+</div><br>
+
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRenanMO&theme=dracula&hide_langs_below=1" />
+</a>
+
 ## Sou formado em Gestão da Tecnologia da Informação, e tenho curso de Full Stack Web Development, e em breve começarei na Engenharia de Sofware em 2024! E cada dia aprendendo mais, tenho essa paixão da Tecnologia!🚀
