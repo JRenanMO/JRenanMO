@@ -30,4 +30,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRenanMO&theme=dracula&hide_langs_below=1" />
 </a>
 
-## Sou formado em Gestão da Tecnologia da Informação, e tenho curso de Full Stack Web Development, e em breve começarei na Engenharia de Sofware em 2024! E cada dia aprendendo mais, tenho essa paixão da Tecnologia!🚀
+## Sou formado em Gestão da Tecnologia da Informação, e tenho curso de Full Stack Web Development, começei a estudar Engenharia de Sofware aonde eu vou crescer com novos codigos e visão e foco, tenho essa paixão da Tecnologia!🚀
